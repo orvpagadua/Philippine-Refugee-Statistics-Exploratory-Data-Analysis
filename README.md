@@ -37,6 +37,6 @@ For any additional questions, please contact ** at @gmail.com**
 ├── notebooks                                     <- Jupyter notebooks containing EDA
 ├── models                                        <- final classification models
 ├── phil_ref_presentation.pdf                     <- PDF version of project presentation
-├── cleaned_data                                  <- Cleaned data generated from code
+├── Phil_ref-2012-2022.csv                        <- Data obtained from unhcr
 └── images                                        <- Both sourced externally and generated from code
 ```
