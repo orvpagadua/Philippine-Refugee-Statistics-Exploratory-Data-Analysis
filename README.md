@@ -1,5 +1,7 @@
 # Philippine-Refugee-Statistics-Exploratory-Data-Analysis
+
 ## Exploratory Data Analysis (EDA) on UNHCR Refugee Statistics for Philippines from 2012-2022
+![DSC09707](https://github.com/orvpagadua/Philippine-Refugee-Statistics-Exploratory-Data-Analysis/assets/122549893/60df6fc2-4953-4413-9b6d-0a8f4ced99b3)
 
 **Author**: Orville Pagaduan
 
