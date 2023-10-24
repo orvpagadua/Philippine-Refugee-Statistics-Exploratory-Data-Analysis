@@ -6,11 +6,13 @@
 **Author**: Orville Pagaduan
 
 ## Overview
+
 Refugees in the Philippines have a long and diverse history, with the country serving as a sanctuary for individuals and communities fleeing persecution and conflict. From hosting Vietnamese boat people and Cambodian refugees in the past to providing shelter for those displaced by internal conflicts, the Philippines has played a role in supporting those seeking refuge. 
 ***
 
 ## Business Problem
-Questions to be Explored
+
+This study aims to answer the following questions:
 
 1. From which countries has Philippines admitted the highest number of refugees?
 2. What are the total number of resettled refugees in Philippines per year?
