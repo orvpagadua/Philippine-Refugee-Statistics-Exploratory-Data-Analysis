@@ -39,6 +39,9 @@ This study aims to answer the following questions:
 In summary, a refugee is someone who flees their home country due to persecution, while asylum is the legal protection and status granted to a refugee when they apply for it in another country. Asylum provides refugees with a legal framework to live and work in the host country and enjoy protection from being forcibly returned to their home country.
 
 Original dataset can be downloaded from the [unhcr.org](https://www.unhcr.org/refugee-statistics/download/?url=tK1Dr5) website.
+
+*UNHCR website*
+<img width="1421" alt="UNHCR" src="https://github.com/orvpagadua/Philippine-Refugee-Statistics-Exploratory-Data-Analysis/assets/122549893/72ad7723-e0d6-42d4-85b9-82e89f80a1aa">
 ***
 
 ## Methods
