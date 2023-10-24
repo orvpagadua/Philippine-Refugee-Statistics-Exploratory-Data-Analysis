@@ -6,8 +6,9 @@
 **Author**: Orville Pagaduan
 
 ## Overview
-
+Refugees in the Philippines have a long and diverse history, with the country serving as a sanctuary for individuals and communities fleeing persecution and conflict. From hosting Vietnamese boat people and Cambodian refugees in the past to providing shelter for those displaced by internal conflicts, the Philippines has played a role in supporting those seeking refuge. 
 ***
+
 ## Business Problem
 Questions to be Explored
 
