@@ -23,6 +23,21 @@ This study aims to answer the following questions:
 ***
 
 ## Data
+
+"Asylum" and "refugee" are related concepts, but they differ in their legal and contextual definitions:
+
+1. **Refugee:**
+   - A refugee is a person who has fled their home country because of well-founded fears of persecution based on factors like race, religion, nationality, political opinion, or membership in a particular social group.
+   - Refugees often seek protection in another country due to these fears.
+   - They may apply for refugee status, and if granted, they are recognized as refugees and receive legal protections and assistance in the host country.
+
+2. **Asylum:**
+   - Asylum refers to the protection or status granted to refugees when they apply for it in another country.
+   - When a refugee arrives in another country and formally requests asylum, they are seeking legal recognition and the right to live and work in that country without the fear of being deported.
+   - The host country evaluates their case to determine if they meet the criteria for refugee status, and if approved, they are granted asylum.
+
+In summary, a refugee is someone who flees their home country due to persecution, while asylum is the legal protection and status granted to a refugee when they apply for it in another country. Asylum provides refugees with a legal framework to live and work in the host country and enjoy protection from being forcibly returned to their home country.
+
 Original dataset can be downloaded from the [unhcr.org](https://www.unhcr.org/refugee-statistics/download/?url=tK1Dr5) website.
 ***
 
